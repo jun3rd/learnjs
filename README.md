@@ -1,0 +1,2 @@
+# learnjs
+practice learning javascript
